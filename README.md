@@ -1,5 +1,5 @@
-### Hi 👋
+### Hi!
 
-I have no idea what i should type here
+I guess I should write something here, but I'm not sure what lol
 
-[![Skye's github stats](https://github-readme-stats-mu-lovat.vercel.app/api?username=sssskye)](https://github.com/anuraghazra/github-readme-stats)
+
